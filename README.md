@@ -1,6 +1,5 @@
 - 👋 Hi, I’m tamilore
 - 👀 I’m interested in Java programming 
-- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me tamilorebankole@gmail.com
 
